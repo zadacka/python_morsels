@@ -2,7 +2,7 @@ from io import StringIO
 from textwrap import dedent
 import unittest
 
-from moresels_17.csv_columns import csv_columns
+from morsels_17.csv_columns import csv_columns
 
 
 unittest.util._MAX_LENGTH = 300
