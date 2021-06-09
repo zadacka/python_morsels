@@ -1,6 +1,6 @@
 import unittest
 
-from morsels_19.interleave import interleave
+from morsels_18.interleave import interleave
 
 
 class InterleaveTests(unittest.TestCase):
